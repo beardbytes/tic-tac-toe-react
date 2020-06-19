@@ -1,10 +1,10 @@
-> Tic-Tac-Toe
+## Tic-Tac-Toe
 
 ### Steps to run the project 
 
-> git clone
-> npm install
-> npm start / yarn start
+1) git clone
+2) npm install
+3) npm start / yarn start
 
 The project will be hosted on `http://localhost:3000` in deployment mode.
 
